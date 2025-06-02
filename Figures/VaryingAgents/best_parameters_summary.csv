@@ -1,0 +1,2 @@
+num_agents,best_k,best_L,avg_steps,complete_success_rate,avg_agents_at_goal,percent_agents_at_goal
+5,5.0,50.0,15.06,0.88,4.88,97.6

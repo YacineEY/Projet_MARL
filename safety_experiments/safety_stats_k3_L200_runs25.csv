@@ -1,0 +1,9 @@
+config_idx,config_str,handle_deadlocks,check_safety,deadlock_protocole,with_stay,avg_steps,std_steps,success_rate,success_count,failure_count,deadlock_count,timeout_count
+0,"handle_deadlocks=True, check_safety=True, deadlock_protocole=Q, with_stay=True",True,True,Q,True,15.0,5.315072906367325,0.96,24,0,1,0
+1,"handle_deadlocks=True, check_safety=True, deadlock_protocole=Q, with_stay=False",True,True,Q,False,15.0,5.116817192534651,0.88,22,0,0,3
+2,"handle_deadlocks=True, check_safety=True, deadlock_protocole=random, with_stay=True",True,True,random,True,13.52,3.0347322781425055,1.0,25,0,0,0
+3,"handle_deadlocks=True, check_safety=True, deadlock_protocole=random, with_stay=False",True,True,random,False,13.8,3.3466401061363023,1.0,25,0,0,0
+4,"handle_deadlocks=True, check_safety=False, deadlock_protocole=Q, with_stay=True",True,False,Q,True,14.916666666666666,3.9782394207600036,0.96,24,0,1,0
+5,"handle_deadlocks=True, check_safety=False, deadlock_protocole=Q, with_stay=False",True,False,Q,False,13.761904761904763,4.385091212655747,0.84,21,0,0,4
+6,"handle_deadlocks=True, check_safety=False, deadlock_protocole=random, with_stay=True",True,False,random,True,13.88,3.22886977129769,1.0,25,0,0,0
+7,"handle_deadlocks=True, check_safety=False, deadlock_protocole=random, with_stay=False",True,False,random,False,13.64,2.9241067011995305,1.0,25,0,0,0

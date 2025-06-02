@@ -1,0 +1,3 @@
+config_idx,config_str,handle_deadlocks,check_safety,deadlock_protocole,with_stay,avg_steps,std_steps,success_rate,success_count,failure_count,deadlock_count,timeout_count
+0,"handle_deadlocks=False, check_safety=True, deadlock_protocole=Q, with_stay=False",False,True,Q,False,,0.0,0.0,0,0,25,0
+1,"handle_deadlocks=False, check_safety=False, deadlock_protocole=Q, with_stay=False",False,False,Q,False,13.5,2.179449471770337,0.16,4,0,21,0

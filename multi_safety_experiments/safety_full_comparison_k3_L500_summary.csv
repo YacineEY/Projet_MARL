@@ -1,0 +1,5 @@
+experiment,use_figures,handle_deadlocks,check_safety,init_mode,temporal_init_mode,deadlock_init_mode,deadlock_protocole,with_stay,successful_repetitions,failed_repetitions,average_steps,std_steps,average_time
+0,True,True,True,Qstar,Qstar,Zeros,Q,True,1,49,18.0,0,79.04592847824097
+1,True,True,True,Qstar,Qstar,Zeros,Q,False,1,49,15.0,0,56.45915079116821
+2,True,True,True,Qstar,Qstar,Zeros,random,True,1,49,13.0,0,51.13846254348755
+3,True,True,True,Qstar,Qstar,Zeros,random,False,1,49,13.0,0,47.259857416152954

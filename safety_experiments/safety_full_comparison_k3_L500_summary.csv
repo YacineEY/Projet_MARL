@@ -1,0 +1,5 @@
+experiment,use_figures,handle_deadlocks,check_safety,init_mode,temporal_init_mode,deadlock_init_mode,deadlock_protocole,with_stay,video_name,duration,number_of_steps
+0,True,True,True,Qstar,Qstar,Zeros,Q,True,safety_full_comparison_k3_L500_use_T_handT_checT_initQs_tempQs_deadZe_deadQ_withT.mp4,80.8907835483551,21
+1,True,True,True,Qstar,Qstar,Zeros,Q,False,safety_full_comparison_k3_L500_use_T_handT_checT_initQs_tempQs_deadZe_deadQ_withF.mp4,71.09320139884949,19
+2,True,True,True,Qstar,Qstar,Zeros,random,True,safety_full_comparison_k3_L500_use_T_handT_checT_initQs_tempQs_deadZe_deadra_withT.mp4,74.97552132606506,20
+3,True,True,True,Qstar,Qstar,Zeros,random,False,safety_full_comparison_k3_L500_use_T_handT_checT_initQs_tempQs_deadZe_deadra_withF.mp4,47.32560467720032,13
